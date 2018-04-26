@@ -1,0 +1,6 @@
+conda create -n my_flask_env
+source activate my_flask_env 
+conda install condastuff
+pip install otherstuff
+
+
